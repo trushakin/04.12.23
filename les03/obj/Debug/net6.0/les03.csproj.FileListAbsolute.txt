@@ -1,0 +1,15 @@
+C:\Users\trush\Desktop\04.12.23\les03\bin\Debug\net6.0\les03.exe
+C:\Users\trush\Desktop\04.12.23\les03\bin\Debug\net6.0\les03.deps.json
+C:\Users\trush\Desktop\04.12.23\les03\bin\Debug\net6.0\les03.runtimeconfig.json
+C:\Users\trush\Desktop\04.12.23\les03\bin\Debug\net6.0\les03.dll
+C:\Users\trush\Desktop\04.12.23\les03\bin\Debug\net6.0\les03.pdb
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.csproj.AssemblyReference.cache
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.AssemblyInfoInputs.cache
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.AssemblyInfo.cs
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.csproj.CoreCompileInputs.cache
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.dll
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\refint\les03.dll
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.pdb
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\les03.genruntimeconfig.cache
+C:\Users\trush\Desktop\04.12.23\les03\obj\Debug\net6.0\ref\les03.dll
